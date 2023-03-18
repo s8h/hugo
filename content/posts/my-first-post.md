@@ -6,6 +6,6 @@ draft: true
 
 ## Hello
 
-My first experiments with an SSG.
+My first experiments with an SSG and Netlify.
 
 Visit the [Hugo](https://gohugo.io) website!
